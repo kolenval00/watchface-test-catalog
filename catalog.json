@@ -1,5 +1,16 @@
 
+
 {
   "schemaVersion": 1,
-  "items": []
+  "items": [
+    {
+      "id": "nb_00",
+      "title": "NB 00",
+      "description": "Первый тестовый циферблат",
+      "category": "digital",
+      "version": 1,
+      "apk": "com.watchfacestudio.nb_00.apk",
+      "status": "published"
+    }
+  ]
 }
