@@ -1,15 +1,17 @@
-
-
 {
   "schemaVersion": 1,
-  "items": [
+  "watchfaces": [
     {
       "id": "nb_00",
       "title": "NB 00",
       "description": "Первый тестовый циферблат",
-      "category": "digital",
+      "category": "Digital",
       "version": 1,
-      "apk": "com.watchfacestudio.nb_00.apk",
+      "preview": "",
+      "apk": "https://kolenval00.github.io/watchface-test-catalog/com.watchfacestudio.nb_00.apk",
+      "sha256": "9B0B4B397B4D8CB31587FFCCAB50B605DE39F5F23580A3B48352AB92B3059EC0",
+      "validationToken": "REPLACE_WITH_REAL_WFP_TOKEN",
+      "minWearOs": 5,
       "status": "published"
     }
   ]
