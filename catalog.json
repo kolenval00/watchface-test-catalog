@@ -18,13 +18,13 @@
     {
       "id": "classic",
       "title": "Classic",
-      "description": "Классический циферблат для Wear OS",
+      "description": "Классический аналоговый циферблат для Wear OS",
       "category": "Analog",
       "version": 1,
       "preview": "",
       "apk": "https://kolenval00.github.io/watchface-test-catalog/com.nick.watchfaces.mvp.watchfacepush.classic.apk",
-      "sha256": "REPLACE_WITH_REAL_SHA256",
-      "validationToken": "REPLACE_WITH_REAL_VALIDATION_TOKEN",
+      "sha256": "48CAEFF1D5063CA67671F241182844D1CB28B38F0D0F590287B7FCDF2E88D303",
+      "validationToken": "tiX7FX6QpM1y1Tzp2DTFolnjqAT2rs6w5wxLliEMs/8=:MS4wLjA=",
       "minWearOs": 5,
       "status": "published"
     }
