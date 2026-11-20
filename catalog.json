@@ -1,3 +1,4 @@
+
 {
   "schemaVersion": 1,
   "watchfaces": [
@@ -8,9 +9,22 @@
       "category": "Digital",
       "version": 2,
       "preview": "",
-     "apk": "https://kolenval00.github.io/watchface-test-catalog/com.nick.watchfaces.mvp.watchfacepush.nb_00-v2.apk",
+      "apk": "https://kolenval00.github.io/watchface-test-catalog/com.nick.watchfaces.mvp.watchfacepush.nb_00-v2.apk",
       "sha256": "FC439DCD8345654927EF933A3257EF7997B39A5D626A253078B26253136E896C",
       "validationToken": "ERhGOAYuWXO1ueTQyzmHiaBO6WuclYYG1PCoVmbZbOA=:MS4wLjA=",
+      "minWearOs": 5,
+      "status": "published"
+    },
+    {
+      "id": "classic",
+      "title": "Classic",
+      "description": "Классический циферблат для Wear OS",
+      "category": "Analog",
+      "version": 1,
+      "preview": "",
+      "apk": "https://kolenval00.github.io/watchface-test-catalog/com.nick.watchfaces.mvp.watchfacepush.classic.apk",
+      "sha256": "REPLACE_WITH_REAL_SHA256",
+      "validationToken": "REPLACE_WITH_REAL_VALIDATION_TOKEN",
       "minWearOs": 5,
       "status": "published"
     }
